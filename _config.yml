@@ -22,10 +22,11 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # title of site appears in banner
 title: Brittle Community Center Pen Pal Project 2013-2024
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: 
+tagline: "Student CollectionBuilder site constructed for fictional Brittle Community Center"
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "Student CollectionBuilder site constructed for fictional Brittle Community Center"
+description: "The Pen Pal Project began as a means to create and maintain connections of the LGBT community in Springfield Valley—and it has grown to a global scale since its beginnings. From the first 11 years when members traveled away from Springfield Valley but wanted to stay connected, to today where members express themselves ardently through writing and mailing correspondence to one another in the age of instant communication."
+
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: Bri C. 
 
