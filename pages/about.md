@@ -14,6 +14,11 @@ credits: true
 
 ## About the Collection
 
+The Pen Pal Project began as a means to create and maintain connections of the LGBT community in Springfield Valley—and it has grown to a global scale since its beginnings. From the first 11 years when members traveled away from Springfield Valley but wanted to stay connected, to today where members express themselves ardently through writing and mailing correspondence to one another in the age of instant communication.
+
+
+### CollectionBuilder
+
 This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
 
 - a CSV of collection metadata
